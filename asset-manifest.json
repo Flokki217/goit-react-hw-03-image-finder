@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/flokki217/goit-react-hw-03-image-finder/static/css/main.bdda2412.css",
+    "main.js": "/flokki217/goit-react-hw-03-image-finder/static/js/main.b55bc313.js",
+    "index.html": "/flokki217/goit-react-hw-03-image-finder/index.html",
+    "main.bdda2412.css.map": "/flokki217/goit-react-hw-03-image-finder/static/css/main.bdda2412.css.map",
+    "main.b55bc313.js.map": "/flokki217/goit-react-hw-03-image-finder/static/js/main.b55bc313.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdda2412.css",
+    "static/js/main.b55bc313.js"
+  ]
+}
