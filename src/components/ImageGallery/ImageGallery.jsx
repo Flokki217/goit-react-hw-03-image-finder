@@ -13,11 +13,10 @@ class ImageGallery extends Component {
     const { images, onImageClick } = this.props;
 
     return (
-      <div className={css.wrapper}>
+      <div>
         <ul className={css.gallery}>
           {images.map(({ id, webformatURL, largeImageURL }) => (
             <ImageGalleryItem
-              className={css.image}
               key={id}
               imageUrl={webformatURL}
               alt={`Image ${id}`}
